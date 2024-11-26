@@ -1,1 +1,1 @@
-i am Leonardo Conceição do Nascimento Lopes.
+i am Leonardo Conceição do Nascimento Lopes and this is my journey through web development.
