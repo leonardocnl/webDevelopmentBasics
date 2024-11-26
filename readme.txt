@@ -1,1 +1,1 @@
-i am Leonardo Conceição do Nascimento Lopes and this is my journey through web development.
+Hi everyone, I am Leonardo Conceição do Nascimento Lopes and this is my journey through web development. This repository marks the start of my web development journey. It features projects and experiments with HTML, CSS, JavaScript, and initial steps into advanced frameworks and tools. My goal is to document progress, share code, and improve my skills. Content is a work in progress, and feedback, suggestions, and contributions are always welcome!
